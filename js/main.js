@@ -79,7 +79,7 @@
     // Define the carousel settings on the window object
     window.galleryCarouselSettings = {
       autoplay: true,
-      smartSpeed: 1000,
+      smartSpeed: 5000,
       dots: true,
       loop: false,
       nav: true,
