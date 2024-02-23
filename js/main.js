@@ -81,7 +81,7 @@
       autoplay: true,
       smartSpeed: 5000,
       dots: true,
-      loop: false,
+      loop: true,
       nav: true,
       navText: [
         '<i class="fa fa-angle-left" aria-hidden="true"></i>',
